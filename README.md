@@ -22,7 +22,7 @@ This project analyzes consumer behavior in e-commerce using a Kaggle dataset to 
 - **Matplotlib** for data visualization.
 
 ## Dataset
-The dataset used in this project is sourced from Kaggle: [E-commerce Project Marketing Analytics](https://www.kaggle.com/datasets/bashiralam1709/e-commerce-project-marketing-analytics).
+The dataset used in this project is sourced from Kaggle: [[E-commerce Project Marketing Analytics](https://www.kaggle.com/datasets/bashiralam1709/e-commerce-project-marketing-analytics)].
 
 ## Repository Structure
 - **Notebook:** Contains the full analysis with code, visualizations, and insights.
@@ -32,7 +32,7 @@ The dataset used in this project is sourced from Kaggle: [E-commerce Project Mar
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ElShaikh1945/E-commerce-Consumer-Behavior-Analysis.git](https://github.com/ElShaikh1945/E-commerce-Consumer-Behavior-Analysis.git)
+   git clone [[https://github.com/ElShaikh1945/E-commerce-Consumer-Behavior-Analysis.git](https://github.com/ElShaikh1945/E-commerce-Consumer-Behavior-Analysis.git)]
    ```
 2. Navigate to the project directory:
    ```bash
