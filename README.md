@@ -22,7 +22,7 @@ This project analyzes consumer behavior in e-commerce using a Kaggle dataset to 
 - **Matplotlib** for data visualization.
 
 ## Dataset
-The dataset used in this project is sourced from Kaggle: [[E-commerce Project Marketing Analytics](https://www.kaggle.com/datasets/bashiralam1709/e-commerce-project-marketing-analytics)].
+The dataset used in this project is sourced from Kaggle: https://www.kaggle.com/datasets/bashiralam1709/e-commerce-project-marketing-analytics).
 
 ## Repository Structure
 - **Notebook:** Contains the full analysis with code, visualizations, and insights.
